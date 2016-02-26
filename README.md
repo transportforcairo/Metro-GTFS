@@ -1,4 +1,4 @@
-(http://transportforcairo.com/wp-content/themes/TfC-Theme/img/logo.png "Transport for Cairo")
+![alt text](http://transportforcairo.com/wp-content/themes/TfC-Theme/img/logo.png "Transport for Cairo")
 
 # Metro GTFS
 
