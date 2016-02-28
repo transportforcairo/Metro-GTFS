@@ -7,6 +7,8 @@
 ### Data is released as:
   GTFS
 
+Try the data using Open Trip Planer [otp.transportforcairo.com](otp.transportforcairo.com)
+
 ### What is GTFS?
 The General Transit Feed Specification (GTFS) defines a common format for public transportation schedules and associated geographic information. GTFS "feeds" allow public transit agencies to publish their transit data and developers to write applications that consume that data in an interoperable way.
 
