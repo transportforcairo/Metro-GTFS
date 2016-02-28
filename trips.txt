@@ -1,0 +1,7 @@
+route_id,service_id,trip_id,trip_short_name,direction_id,wheelchair_accessible
+L1,DAILY,T_L1_N,Helwan - El Marg,0,1
+L3,DAILY,T_L3_E,Attaba - Ahram,0,1
+L1,DAILY,T_L1_S,El Marg - Helwan,1,1
+L3,DAILY,T_L3_W,Ahram - Attaba,1,1
+L2,DAILY,T_L2_S,El Mounib - Shobra El Kheima,0,1
+L2,DAILY,T_L2_N,Shobra El Kheima - El Mounib,1,1

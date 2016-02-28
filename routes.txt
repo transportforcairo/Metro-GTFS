@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+L1,NAT,M1,Metro Line 1,Helwan - El Marg,1,,,
+L3,NAT,M3,Metro Line 3,Attaba - Al Ahram,1,,,
+L2,NAT,M2,Metro Line 2,Shobra El Kheima - El Mounib,1,,,

@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Transport for Cairo,http://transportforcairo.com/,en,20160101,20161201,0.5
